@@ -10,6 +10,8 @@ public class welcome {
 		
 		System.out.println(s1.replace("i","z"));
 		System.out.println(s1.toUpperCase());
+		System.out.println(s2);
+		
 		
 	}
 
