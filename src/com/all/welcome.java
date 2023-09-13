@@ -7,6 +7,7 @@ public class welcome {
 		String s1 = "chiraneevi";
 		String s2 = new String("Hello");
 		String s3 = "hello";
+		String s4 = "Hi Chiranjeevi Bro";
 		
 		System.out.println(s1.replace("i","z"));
 		System.out.println(s1.toUpperCase());
